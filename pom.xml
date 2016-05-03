@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.devopscourse.server</groupId>
-    <artifactId>devops-course</artifactId>
+    <artifactId>kinneret-server</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
